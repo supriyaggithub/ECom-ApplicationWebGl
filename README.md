@@ -1,1 +1,1 @@
-simple filter system for e-commerce web sites.
+simple filter system for e-commerce web sites
